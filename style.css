@@ -1,0 +1,38 @@
+body
+{
+	background-color: #003840;
+	font-family: 'Nunito', sans-serif;
+
+}
+
+header
+{
+	width: auto;
+	float: none;
+	text-align: center;
+}
+
+.logo
+{
+	margin-left: -120px;
+}
+
+h3
+{
+	font-size: 40px;	
+	color: #E9F0F7;
+	margin-top: -60px;
+	margin-left: 220px;
+}
+
+.container
+{
+	color: #E9F0F7;
+	font-size: 16px;
+}
+
+.codigo
+{
+	font-size: 40px;	
+	color: #E9F0F7;
+}
